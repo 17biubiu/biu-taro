@@ -1,0 +1,15 @@
+{
+	"projectname": "biu-taro",
+	"description": "biu-taro",
+	"appid": "wx466c69de5a0f32f7",
+	"setting": {
+		"urlCheck": true,
+		"es6": false,
+		"postcss": false,
+		"minified": false
+	},
+	"compileType": "miniprogram",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {}
+}
