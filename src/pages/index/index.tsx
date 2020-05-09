@@ -29,6 +29,7 @@ export default class Index extends Component {
     return (
       <View className='index'>
         <Text>修改账户</Text>
+        <View>卡卡西</View>
       </View>
     )
   }
